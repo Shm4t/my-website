@@ -5,7 +5,7 @@
 ## 🚀 Демо
 
 Сайт доступен по адресу:  
-`https://[ваш-username].github.io/[название-репозитория]/`
+`https://shm4t.github.io/my-website/`
 
 ## 📋 Особенности
 
